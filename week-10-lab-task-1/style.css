@@ -1,0 +1,22 @@
+h1 {
+    font-size: 32px;
+    font-style: georgia;
+    }
+
+h2 {
+    font-size:18px;
+    font-style: georgia;
+    color: blue;
+}
+
+.firstparagraph {
+    font-size:16px;
+    font-style:georgia;
+    text-align: center;
+}
+
+.secondparagraph {
+    font-size:16px;
+    text-align:left;
+    color: #00b6ff;
+}
